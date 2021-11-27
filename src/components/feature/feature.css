@@ -31,7 +31,6 @@
 }
 .gpt3__features-container_feature-text:not(:first-child) {
   flex: 2;
-  /* max-width: 390px; */
   display: flex;
 }
 .gpt3__features-container_feature-text p {
